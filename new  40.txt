@@ -1,0 +1,26 @@
+Yogesh Ht (03.09.2020 10:59):
+its available only from employee account?
+
+Yogesh Ht (03.09.2020 10:59):
+ok we need to create an admin who has option to add comments/notes to all employees saless
+
+Yogesh Ht (03.09.2020 10:59):
+i mean admin should have permission to edit all notes for all sales
+
+Yogesh Ht (03.09.2020 10:59):
+one important issue i just saw
+
+Yogesh Ht (03.09.2020 10:59):
+[Photo: 0KsqA0001ijgUOdBPDA4PQ5f507f481ah]
+
+Yogesh Ht (03.09.2020 10:59):
+ye maine pahle bhi send kiye the apko
+
+Ritu (03.09.2020 10:59):
+smj gyi ..  iski sir sever ki detail thi n apke pas. muje bejna
+
+Yogesh Ht (03.09.2020 11:00):
+they should not be able to see all sales belonging to other employees
+
+Yogesh Ht (03.09.2020 11:00):
+pta nai mujhe details ka to

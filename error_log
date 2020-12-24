@@ -1,0 +1,50 @@
+[14-Sep-2020 12:17:09 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/zotato/public_html/storage/framework/views/492d97a9f43c5d5d335a5f0f5581919eeaab27ee.php on line 56
+[14-Sep-2020 12:17:38 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/zotato/public_html/storage/framework/views/492d97a9f43c5d5d335a5f0f5581919eeaab27ee.php on line 56
+[25-Sep-2020 11:22:31 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/zotato/public_html/app/Http/Controllers/HomeController.php on line 90
+[30-Sep-2020 12:42:00 UTC] PHP Fatal error:  Uncaught ReflectionException: Class config does not exist in /home/zotato/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:729
+Stack trace:
+#0 /home/zotato/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(729): ReflectionClass->__construct('config')
+#1 /home/zotato/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(608): Illuminate\Container\Container->build('config')
+#2 /home/zotato/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(575): Illuminate\Container\Container->resolve('config')
+#3 /home/zotato/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(728): Illuminate\Container\Container->make('config')
+#4 /home/zotato/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(106): Illuminate\Foundation\Application->make('config')
+#5 /home/zotato/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(269): app('config')
+#6 /home/zotato/publ in /home/zotato/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 729
+[30-Sep-2020 12:43:13 UTC] PHP Fatal error:  Uncaught ReflectionException: Class config does not exist in /home/zotato/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:729
+Stack trace:
+#0 /home/zotato/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(729): ReflectionClass->__construct('config')
+#1 /home/zotato/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(608): Illuminate\Container\Container->build('config')
+#2 /home/zotato/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(575): Illuminate\Container\Container->resolve('config')
+#3 /home/zotato/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(728): Illuminate\Container\Container->make('config')
+#4 /home/zotato/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(106): Illuminate\Foundation\Application->make('config')
+#5 /home/zotato/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(269): app('config')
+#6 /home/zotato/publ in /home/zotato/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 729
+[30-Sep-2020 12:43:13 UTC] PHP Fatal error:  Uncaught ReflectionException: Class config does not exist in /home/zotato/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:729
+Stack trace:
+#0 /home/zotato/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(729): ReflectionClass->__construct('config')
+#1 /home/zotato/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(608): Illuminate\Container\Container->build('config')
+#2 /home/zotato/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(575): Illuminate\Container\Container->resolve('config')
+#3 /home/zotato/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(728): Illuminate\Container\Container->make('config')
+#4 /home/zotato/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(106): Illuminate\Foundation\Application->make('config')
+#5 /home/zotato/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(269): app('config')
+#6 /home/zotato/publ in /home/zotato/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 729
+[30-Sep-2020 12:43:13 UTC] PHP Fatal error:  Uncaught ReflectionException: Class config does not exist in /home/zotato/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:729
+Stack trace:
+#0 /home/zotato/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(729): ReflectionClass->__construct('config')
+#1 /home/zotato/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(608): Illuminate\Container\Container->build('config')
+#2 /home/zotato/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(575): Illuminate\Container\Container->resolve('config')
+#3 /home/zotato/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(728): Illuminate\Container\Container->make('config')
+#4 /home/zotato/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(106): Illuminate\Foundation\Application->make('config')
+#5 /home/zotato/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(269): app('config')
+#6 /home/zotato/publ in /home/zotato/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 729
+[30-Sep-2020 12:43:14 UTC] PHP Fatal error:  Uncaught ReflectionException: Class config does not exist in /home/zotato/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:729
+Stack trace:
+#0 /home/zotato/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(729): ReflectionClass->__construct('config')
+#1 /home/zotato/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(608): Illuminate\Container\Container->build('config')
+#2 /home/zotato/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(575): Illuminate\Container\Container->resolve('config')
+#3 /home/zotato/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(728): Illuminate\Container\Container->make('config')
+#4 /home/zotato/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(106): Illuminate\Foundation\Application->make('config')
+#5 /home/zotato/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(269): app('config')
+#6 /home/zotato/publ in /home/zotato/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 729
+[02-Oct-2020 12:16:15 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\OrderController::trackOrder() in /home/zotato/public_html/app/Http/Controllers/OrderController.php on line 150
+[14-Oct-2020 12:35:55 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\HomeController::postResetPassword() in /home/zotato/public_html/app/Http/Controllers/HomeController.php on line 193
